@@ -1366,6 +1366,10 @@ video {
 	max-width: 28rem !important;
 }
 
+main img.max-w-md{
+	max-width: min(100%, 28rem) !important;
+}
+
 .max-w-80 {
 	max-width: 80px !important;
 }

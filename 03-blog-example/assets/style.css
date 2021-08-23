@@ -144,6 +144,9 @@ a {
   .social-icons {
     display: none;
   }
+  /*main {
+    overflow: hidden;
+  }*/
 }
 
 .heading-decoration {
